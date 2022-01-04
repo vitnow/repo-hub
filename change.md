@@ -1,1 +1,1 @@
-some config
+some config and full
